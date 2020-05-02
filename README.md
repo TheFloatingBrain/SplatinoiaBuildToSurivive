@@ -3,3 +3,6 @@ RUN! JUMP! BUILD! To escape the splats! These squishy creatures will kill but on
 
 # Note
 Included a build script and manifest file with 2 simple commands (these may be copied into a shell/shell script fairly easily) so the game may be ran and played. Unfortunately later versions of this game were lost, unfortunately I think this is one of the earlier builds.
+
+# Screenshot
+![Alt Text]( https://i.postimg.cc/ZnrhH2Fb/Game-Screen-Shot.png )
